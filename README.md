@@ -29,7 +29,7 @@ How to Build and Run:
 5. To run the tests, run:
    mvn test
 6. To run the application, run:
-   mvn exec:java -Dexec.mainClass="minesweeper.MinesweeperGame"
+   mvn exec:java -Dexec.mainClass="com.minesweeper.MinesweeperGame"
 
 Alternatively, you can package the application into a jar file and run it with the java -jar command.
 
